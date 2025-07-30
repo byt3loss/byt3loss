@@ -7,8 +7,10 @@
 ## # whoami
 
 My brain supports the following languages: 
-
-🇮🇹 🇧🇷 🇪🇸 🇬🇧
+- *Italiano*
+- *Español*
+- *Portugûes*
+- *English*
 
 ## Repos
 
