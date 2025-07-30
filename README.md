@@ -2,6 +2,8 @@
 
 ---🦷-🦷-🦷---
 
+My brain supports the following languages: 🇮🇹 🇧🇷 🇪🇸 🇬🇧
+
 👾 Visit my blog >> [pwnyour.site](https://pwnyour.site)!!
 
 ## Repos
