@@ -6,11 +6,10 @@
 
 ## # whoami
 
-My brain supports the following languages: 
+Besides english, my brain currently supports the following languages: 
 - *Italiano*
 - *Español*
 - *Portugûes*
-- *English*
 
 ## Repos
 
