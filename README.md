@@ -1,3 +1,5 @@
+![](banner.gif)
+
 ## # whoami
 
 Cybersecurity enthusiast who loves playing CTFs, writing malicious code and also learning new languages - both programming and human.
