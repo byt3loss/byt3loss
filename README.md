@@ -23,11 +23,7 @@ My mind is constantly thinking about new projects. Here's just the 10% some of t
 ## Contributions
 
 Happy and proud to contribute to some cool projects:
-- [Holehe](https://github.com/megadose/holehe) 😈
-  - [PR#131](https://github.com/megadose/holehe/pull/131) - Fix Instagram module
-  - [PR#141](https://github.com/megadose/holehe/pull/141) - Fix Yahoo module
-  - [PR#151](https://github.com/megadose/holehe/pull/151) - Fix Adobe module
+- [Holehe](https://github.com/megadose/holehe) 😈 
 - [Gobuster](https://github.com/OJ/gobuster) 👻
-  - [PR#530](https://github.com/OJ/gobuster/pull/530) - Add *--exclude-hostname-length* flag for exclusion based on dynamic body length during VHOST enumeration
 
 ![](banner.gif)
