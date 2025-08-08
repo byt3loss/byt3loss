@@ -15,10 +15,10 @@ Besides english, my brain currently supports the following languages:
 
 My mind is constantly thinking about new projects. Here's just the 10% some of them.
 
-- [Zombie Relay](https://github.com/0xyy66/ZombieRelay) 🧟‍♀️ - An Alpine container for reverse tunneling remote services via SSH without exposing your host. Designed to die and rise again, just like a zombie.
-- [Offensive Scripts](https://github.com/0xyy66/OffensiveScripts) 😈 - My collection of scripts, developed during CTFs, for exploiting vulnerabilities, chaining exploits, or automating tasks.
-- [RawHTTPy](https://github.com/0xyy66/RawHTTPy) 🥑 - Python package to parse raw HTTP requests into an object, ready to be used to send HTTP requests with web python libraries such as requests or httpx. ([PyPI](https://pypi.org/project/rawhttpy/) - `pip install rawhttpy`)
-- [Sound-CLI-Cloud](https://github.com/0xyy66/sound-cli-cloud) 🎶 - Bash script to listen to SoundCloud music from the CLI (my first bash script!)
+- [Zombie Relay](https://github.com/byt3loss/ZombieRelay) 🧟‍♀️ - An Alpine container for reverse tunneling remote services via SSH without exposing your host. Designed to die and rise again, just like a zombie.
+- [Offensive Scripts](https://github.com/byt3loss/OffensiveScripts) 😈 - My collection of scripts, developed during CTFs, for exploiting vulnerabilities, chaining exploits, or automating tasks.
+- [RawHTTPy](https://github.com/byt3loss/RawHTTPy) 🥑 - Python package to parse raw HTTP requests into an object, ready to be used to send HTTP requests with web python libraries such as requests or httpx. ([PyPI](https://pypi.org/project/rawhttpy/) - `pip install rawhttpy`)
+- [Sound-CLI-Cloud](https://github.com/byt3loss/sound-cli-cloud) 🎶 - Bash script to listen to SoundCloud music from the CLI (my first bash script!)
 
 ## Contributions
 
