@@ -1,6 +1,8 @@
-# Welcome
-
 ## # whoami
+
+Cybersecurity enthusiast who loves playing CTFs, writing malicious code and also learning new languages - both programming and human.
+
+I work primarily as a SOC Analyst and Akamai technician, with additional experience on pentests and managing customer vulnerabilities on Tenable.
 
 Besides english, my brain currently supports the following languages: 
 - *Italiano*
