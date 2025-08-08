@@ -1,6 +1,4 @@
-![](banner.gif)
-
-## # whoami
+**# whoami**
 
 Cybersecurity enthusiast who loves playing CTFs, writing malicious code and also learning new languages - both programming and human.
 
@@ -31,3 +29,5 @@ Happy and proud to contribute to some cool projects:
   - [PR#151](https://github.com/megadose/holehe/pull/151) - Fix Adobe module
 - [Gobuster](https://github.com/OJ/gobuster) 👻
   - [PR#530](https://github.com/OJ/gobuster/pull/530) - Add *--exclude-hostname-length* flag for exclusion based on dynamic body length during VHOST enumeration
+
+![](banner.gif)
