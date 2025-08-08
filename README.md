@@ -1,8 +1,4 @@
-# WELCOME 👽🎂
-
----🦷-🦷-🦷---
-
-👾 Visit my blog >> [pwnyour.site](https://pwnyour.site)!!
+# Welcome
 
 ## # whoami
 
@@ -10,6 +6,8 @@ Besides english, my brain currently supports the following languages:
 - *Italiano*
 - *Español*
 - *Portugûes*
+
+👾 Visit my blog: https://pwnyour.site
 
 ## Repos
 
