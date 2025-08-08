@@ -1,6 +1,6 @@
 **# whoami**
 
-Cybersecurity enthusiast who loves playing CTFs, writing malicious code and also learning new languages - both programming and human.
+SOC Analyst by day, Hacker by night 🌑
 
 I work primarily as a SOC Analyst and Akamai technician, with additional experience on pentests and managing customer vulnerabilities on Tenable.
 
