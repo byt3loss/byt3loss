@@ -13,7 +13,7 @@ Besides english, my brain currently supports the following languages:
 
 ## Repos
 
-My mind is constantly thinking about new projects. Here's just the 10% some of them.
+My mind is constantly thinking about new projects. Here's just the 10% of them.
 
 - [Zombie Relay](https://github.com/byt3loss/ZombieRelay) 🧟‍♀️ - An Alpine container for reverse tunneling remote services via SSH without exposing your host. Designed to die and rise again, just like a zombie.
 - [Offensive Scripts](https://github.com/byt3loss/OffensiveScripts) 😈 - My collection of scripts, developed during CTFs, for exploiting vulnerabilities, chaining exploits, or automating tasks.
