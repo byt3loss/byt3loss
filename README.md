@@ -17,10 +17,10 @@ Besides english, my brain currently supports the following languages:
 
 My mind is constantly thinking about new projects. Here's just the 10% of them.
 
->![Nuclei Blues](https://github-readme-stats.vercel.app/api/pin/?username=byt3loss&repo=Nuclei-Blues&theme=transparent)<br>
->![Zombie Relay](https://github-readme-stats.vercel.app/api/pin/?username=byt3loss&repo=ZombieRelay&theme=transparent)<br>
->![Offensive Scripts](https://github-readme-stats.vercel.app/api/pin/?username=byt3loss&repo=OffensiveScripts&theme=transparent)<br>
->![RawHTTPy](https://github-readme-stats.vercel.app/api/pin/?username=byt3loss&repo=RawHTTPy&theme=transparent)<br>
+>[![Nuclei Blues](https://github-readme-stats.vercel.app/api/pin/?username=byt3loss&repo=Nuclei-Blues&theme=transparent)](https://github.com/byt3loss/Nuclei-Blues)<br>
+>[![Zombie Relay](https://github-readme-stats.vercel.app/api/pin/?username=byt3loss&repo=ZombieRelay&theme=transparent)](https://github.com/byt3loss/ZombieRelay)<br>
+>[![Offensive Scripts](https://github-readme-stats.vercel.app/api/pin/?username=byt3loss&repo=OffensiveScripts&theme=transparent)](https://github.com/byt3loss/OffensiveScripts)<br>
+>[![RawHTTPy](https://github-readme-stats.vercel.app/api/pin/?username=byt3loss&repo=RawHTTPy&theme=transparent)](https://github.com/byt3loss/RawHTTPy)<br>
 
 ## Contributions
 
