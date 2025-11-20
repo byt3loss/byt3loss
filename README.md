@@ -27,5 +27,3 @@ My mind is constantly thinking about new projects. Here's just the 10% of them.
 Honored to contribute to some cool projects:
 - [Holehe](https://github.com/megadose/holehe) 😈 
 - [Gobuster](https://github.com/OJ/gobuster) 👻
-
-![](banner.gif)
