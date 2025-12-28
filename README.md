@@ -13,14 +13,14 @@ Besides english, my brain currently supports the following languages:
 - *Portugûes*
 </details>
 
-## Repos
+## Repos 🐲
 
 My mind is constantly thinking about new projects. Here's just the 10% of them.
 
->[![Nuclei Blues](https://github-readme-stats.vercel.app/api/pin/?username=byt3loss&repo=Nuclei-Blues&theme=transparent)](https://github.com/byt3loss/Nuclei-Blues)<br>
->[![Zombie Relay](https://github-readme-stats.vercel.app/api/pin/?username=byt3loss&repo=ZombieRelay&theme=transparent)](https://github.com/byt3loss/ZombieRelay)<br>
->[![Offensive Scripts](https://github-readme-stats.vercel.app/api/pin/?username=byt3loss&repo=OffensiveScripts&theme=transparent)](https://github.com/byt3loss/OffensiveScripts)<br>
->[![RawHTTPy](https://github-readme-stats.vercel.app/api/pin/?username=byt3loss&repo=RawHTTPy&theme=transparent)](https://github.com/byt3loss/RawHTTPy)<br>
+- [Nuclei Blues](https://github.com/byt3loss/Nuclei-Blues) - My collection of Nuclei templates.
+- [Zombie Relay](https://github.com/byt3loss/ZombieRelay) - An Alpine container for reverse tunneling remote services via SSH without exposing your host. Designed to die and rise again, just like a zombie.
+- [Offensive Scripts](https://github.com/byt3loss/OffensiveScripts) - My collection of scripts, developed during CTFs, for exploiting vulnerabilities, chaining exploits, or automating tasks.
+- [RawHTTPy](https://github.com/byt3loss/RawHTTPy) - Python package to parse raw HTTP requests into an object, ready to be used to send HTTP requests with web python libraries such as requests or httpx. ([PyPI](https://pypi.org/project/rawhttpy/), `pip install rawhttpy`)
 
 ## Contributions
 
