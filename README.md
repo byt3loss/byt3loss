@@ -3,7 +3,7 @@ Offensive code and pasta 🍝.
 👾 Visit my blog: https://pwnyour.site
 
 <details>
-<summary><b># whoami (click to expand)</b></summary>
+<summary><b># whoami</b>(click to expand)</summary>
   
 I work primarily as a SOC Analyst and Akamai technician, with additional experience on pentests and managing customer vulnerabilities on Tenable.
 
